@@ -1,0 +1,137 @@
+[
+  {
+    "Username": "admin",
+    "PlainPassword": "admin",
+    "UserInfo": {
+      "MyPlaylists": [],
+      "FavoriteSongs": [],
+      "Name": "ThongVT",
+      "NgaySinh": "2024-11-22T10:54:24.0877834+07:00",
+      "PhoneNumbers": "0123456789"
+    }
+  },
+  {
+    "Username": "thong",
+    "PlainPassword": "111",
+    "UserInfo": {
+      "MyPlaylists": [
+        {
+          "Name": "Top Hits VN",
+          "Songs": [
+            {
+              "Artist": "MONO",
+              "LyricsPath": null,
+              "Title": "Waiting For You",
+              "Genre": "Pop",
+              "ReleaseDate": "2022-08-18T00:00:00",
+              "FilePath": "C:\\DOAN\\topbaihitVN\\waitingforyou.mp3"
+            },
+            {
+              "Artist": "Tăng Duy Tân",
+              "LyricsPath": null,
+              "Title": "Bên Trên Tầng Lầu",
+              "Genre": "Ballad",
+              "ReleaseDate": "2022-06-11T00:00:00",
+              "FilePath": "C:\\DOAN\\topbaihitVN\\bentrentanglau.mp3"
+            },
+            {
+              "Artist": "MCK ft. Trung Trần",
+              "LyricsPath": null,
+              "Title": "Chìm Sâu",
+              "Genre": "Rap",
+              "ReleaseDate": "2022-09-05T00:00:00",
+              "FilePath": "C:\\DOAN\\topbaihitVN\\chimsau.mp3"
+            },
+            {
+              "Artist": "Miu Lê ft. Karik",
+              "LyricsPath": null,
+              "Title": "Vì Mẹ Anh Bắt Chia Tay",
+              "Genre": "Pop",
+              "ReleaseDate": "2022-10-21T00:00:00",
+              "FilePath": "C:\\DOAN\\topbaihitVN\\vimeanhbatchiatay.mp3"
+            },
+            {
+              "Artist": "Sơn Tùng M-TP",
+              "LyricsPath": null,
+              "Title": "Hãy Trao Cho Anh",
+              "Genre": "Pop",
+              "ReleaseDate": "2019-07-01T00:00:00",
+              "FilePath": "C:\\DOAN\\topbaihitVN\\haytraochoanh.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "Bolero",
+          "Songs": [
+            {
+              "Artist": "Nhạc Sĩ Thái Châu",
+              "LyricsPath": "C:\\DOAN\\Baihatgoiy\\duyen_phan_lyrics.txt",
+              "Title": "Duyên Phận",
+              "Genre": "Bolero",
+              "ReleaseDate": "1983-01-01T00:00:00",
+              "FilePath": "C:\\DOAN\\Baihatgoiy\\duyen_phan.mp3"
+            },
+            {
+              "Artist": "Nhạc Sĩ Hà Phương",
+              "LyricsPath": "C:\\DOAN\\Baihatgoiy\\mua_dem_tinh_nho_lyrics.txt",
+              "Title": "Mưa Đêm Tỉnh Nhỏ",
+              "Genre": "Bolero",
+              "ReleaseDate": "1973-01-01T00:00:00",
+              "FilePath": "C:\\DOAN\\Baihatgoiy\\mua_dem_tinh_nho.mp3"
+            },
+            {
+              "Artist": "Nhạc Sĩ Vũ Thanh",
+              "LyricsPath": "C:\\DOAN\\Baihatgoiy\\dap_mo_cuoc_tinh_lyrics.txt",
+              "Title": "Đắp Mộ Cuộc Tình",
+              "Genre": "Bolero",
+              "ReleaseDate": "1995-01-01T00:00:00",
+              "FilePath": "C:\\DOAN\\Baihatgoiy\\dap_mo_cuoc_tinh.mp3"
+            }
+          ]
+        },
+        {
+          "Name": "thong",
+          "Songs": [
+            {
+              "Artist": "hieuthuhai",
+              "LyricsPath": "test.txt",
+              "Title": "exitsign",
+              "Genre": "rap",
+              "ReleaseDate": "2001-01-01T00:00:00",
+              "FilePath": "C:\\DOAN\\test.mp3"
+            }
+          ]
+        }
+      ],
+      "FavoriteSongs": [
+        {
+          "Artist": "Sơn Tùng M-TP",
+          "LyricsPath": "C:\\DOAN\\lyricsSonTung\\lactroi.txt",
+          "Title": "Lạc Trôi",
+          "Genre": "Pop",
+          "ReleaseDate": "2017-01-01T00:00:00",
+          "FilePath": "C:\\DOAN\\songsSonTung\\lactroi.mp3"
+        },
+        {
+          "Artist": "Sơn Tùng M-TP",
+          "LyricsPath": "C:\\DOAN\\lyricsSonTung\\dunglamtraitimanhdau.txt",
+          "Title": "Đừng Làm Trái Tim Anh Đau",
+          "Genre": "Pop",
+          "ReleaseDate": "2018-05-05T00:00:00",
+          "FilePath": "C:\\DOAN\\songsSonTung\\dunglamtraitimanhdau.mp3"
+        },
+        {
+          "Artist": "Sơn Tùng M-TP",
+          "LyricsPath": "C:\\DOAN\\lyricsSonTung\\cochacyeuladay.txt",
+          "Title": "Có Chắc Yêu Là Đây",
+          "Genre": "Pop",
+          "ReleaseDate": "2020-07-10T00:00:00",
+          "FilePath": "C:\\DOAN\\songsSonTung\\cochacyeuladay.mp3"
+        }
+      ],
+      "Name": "vu van thong",
+      "NgaySinh": "2001-01-01T00:00:00",
+      "PhoneNumbers": "02438231183"
+    }
+  }
+]
